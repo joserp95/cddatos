@@ -1,0 +1,9 @@
+{
+	"name": "adfdiplomado",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a5978d1-59b5-4f16-b9ba-c56f3aff631e",
+		"tenantId": "a30d49ad-e054-4b41-9fed-e9208bec8a69"
+	}
+}
