@@ -1,0 +1,9 @@
+{
+	"name": "DF-jr1995",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3dd7699e-8a33-42af-a601-8d5a91c3d689",
+		"tenantId": "a30d49ad-e054-4b41-9fed-e9208bec8a69"
+	}
+}
