@@ -1,0 +1,9 @@
+{
+	"name": "dfpruebajr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "701edbac-15b6-486f-a632-e0cd68adbf38",
+		"tenantId": "a30d49ad-e054-4b41-9fed-e9208bec8a69"
+	}
+}
