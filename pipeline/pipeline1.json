@@ -13,18 +13,14 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": [
-					{
-						"name": ""
-					}
-				],
+				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
 						"referenceName": "Parquet3",
 						"type": "DatasetReference",
 						"parameters": {
 							"SistemadeArchivo": "sajr",
-							"RutadeArchivo": "pruebas"
+							"RutadeArchivo": "bi2"
 						}
 					},
 					"fieldList": [
