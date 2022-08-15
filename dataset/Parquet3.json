@@ -5,6 +5,14 @@
 			"referenceName": "AzureDataLakeStorage1",
 			"type": "LinkedServiceReference"
 		},
+		"parameters": {
+			"SistemadeArchivo": {
+				"type": "string"
+			},
+			"RutadeArchivo": {
+				"type": "string"
+			}
+		},
 		"annotations": [],
 		"type": "Parquet",
 		"typeProperties": {
